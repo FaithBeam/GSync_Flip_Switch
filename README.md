@@ -1,6 +1,8 @@
 # GSync Flip Switch
 Switches whichever mode your GSync monitor is in. If GSync is on, it is turned off. If GSync is off, it is turned on.
 
+https://www.youtube.com/watch?v=1w7AlD-x3vs
+
 ## Requirements
 * Linux
 * Nvidia Driver >= 387.12
