@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=1w7AlD-x3vs
 ## Requirements
 * Linux
 * Nvidia Driver >= 387.12
+* nvidia-settings (Installed automatically with nvidia driver)
 * GSync Monitor
 
 ## Usage
