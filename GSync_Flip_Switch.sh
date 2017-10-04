@@ -24,9 +24,5 @@ flip_gsync_mode() {
     eval "$NVIDIACOMMAND"
 }
 
-main() {
-    determine_gsync_state
-    flip_gsync_mode
-}
-
-main
+determine_gsync_state
+flip_gsync_mode
