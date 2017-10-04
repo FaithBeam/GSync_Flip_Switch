@@ -8,7 +8,7 @@ determine_gsync_state() {
             GSYNCSTATE="OFF"
         else
             # Assume GSync is on because nvidia-settings -q CurrentMetaMode
-            # contains a metamode, and when GSync is on AllowGSYNC is not
+            # returned a metamode, and when GSync is on AllowGSYNC is not
             # part of the returned string. Perhaps a better way to determine
             # if GSync is enabled is needed?
             GSYNCSTATE="ON"
