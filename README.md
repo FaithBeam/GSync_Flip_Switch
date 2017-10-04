@@ -10,6 +10,7 @@ Switches whichever mode your GSync monitor is in. If GSync is on, it is turned o
 Just run the .sh file.
 
 ## Gotchas
+* No error handling in environments where this wouldn't work.
 * Running the tool back-to-back too quickly may cause settings not to be applied.
 * Untested in multi-monitor setups.
 
