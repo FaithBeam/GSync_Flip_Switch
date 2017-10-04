@@ -17,7 +17,6 @@ determine_gsync_state() {
         # Unknown GSync state
         exit 1
     fi
-    
 }
 
 flip_gsync_mode() {
