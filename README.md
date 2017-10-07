@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=1w7AlD-x3vs
 Just run the .sh file.
 
 ## Gotchas
-* Running the tool back-to-back too quickly may cause settings not to be applied.
+* Running the tool back-to-back too quickly may cause settings to not be applied.
 * Untested in multi-monitor setups.
 
 Not responsible for sudden death of monitor or any damage this may cause.
