@@ -1,7 +1,7 @@
-# Expected behavior
+### Expected behavior
 
-# Actual behavior
+### Actual behavior
 
-# Steps to reproduce the problem
+### Steps to reproduce the problem
 
-# Linux kernel version, distro, desktop environment, nvidia version, monitor model
+### Linux kernel version, distro, desktop environment, graphics card, nvidia version, monitor model
