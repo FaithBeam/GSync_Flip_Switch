@@ -1,7 +1,7 @@
 # GSync Flip Switch
 Switches whichever mode your GSync monitor is in. If GSync is on, it is turned off. If GSync is off, it is turned on.
 
-[![GSync Flip Switch Youtube Video](https://i.imgur.com/hXoftEq.png)](https://www.youtube.com/watch?v=1w7AlD-x3vs "GSync Flip Switch Example Youtube Video")
+[![GSync Flip Switch Youtube Video](https://i.imgur.com/QuKjhE1.jpg)](https://www.youtube.com/watch?v=1w7AlD-x3vs "GSync Flip Switch Example Youtube Video")
 
 ## Requirements
 * Linux kernel from the past 10 years
