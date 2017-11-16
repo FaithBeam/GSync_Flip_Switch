@@ -17,4 +17,7 @@ Just run the .py file.
 * Running the tool back-to-back too quickly may cause settings to not be applied.
 * Untested in multi-monitor setups.
 
+## Why Disable GSync?
+Many monitors that support GSync also support some sort of low motion blur mode (ULMB, LightBoost, DyAc, ELMB). GSync must be disabled to use these modes. Read more here: https://www.blurbusters.com/faq/motion-blur-reduction/
+
 Not responsible for sudden death of monitor or any damage this may cause.
